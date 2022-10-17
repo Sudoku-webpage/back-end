@@ -1,0 +1,3 @@
+This is the back end repository for the Sudoku webpage application
+The front end and back end are kept seperate to avoid merge confilicts and to categorize the code more efficiently
+The back end featrues will include ...
